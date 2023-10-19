@@ -1,0 +1,5 @@
+export enum TestElement {
+  CAMPAIGN_BANNER = 'CAMPAIGN_BANNER',
+  GAME_BOX = 'GAME_BOX',
+  START_BUTTON = 'START_BUTTON',
+}
